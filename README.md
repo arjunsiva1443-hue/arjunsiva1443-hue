@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Arjunsiva 👋
 
-<!--
-**arjunsiva1443-hue/arjunsiva1443-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Hardware Engineering Student  
+🖥️ IT Support | Networking | System Administration  
+☁️ AWS & Cloud Computing  
+📱 Flutter & Android Development
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Hardware & Troubleshooting
+- IT Support
+- Networking
+- System Administration
+- Linux
+- AWS
+- Git & GitHub
+
+## 🚀 Projects
+
+### ☁️ AWS & Linux Projects
+Hands-on projects involving AWS services, Linux servers and system administration.
+
+## 🎯 Currently Learning
+
+- AWS Cloud
+- Linux System Administration
+- Networking
+- Cloud Infrastructure
+- DevOps
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/arjun-siva1443/
+- GitHub: https://github.com/arjunsiva1443-hue
